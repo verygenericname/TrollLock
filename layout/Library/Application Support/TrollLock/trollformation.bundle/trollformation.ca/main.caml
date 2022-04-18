@@ -9,11 +9,6 @@
 	          <sublayers>
 	            <CALayer id="#1" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 147.0 132.0" contentsFormat="RGBA8" name="shackle" opacity="1" position="73.5 66.0">
 		          <contents type="CGImage" src="assets/trollformation1.png"/>
-		          <sublayers>
-                    <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 147.0 132.0" contentsFormat="RGBA8" name="body" position="73.5 66.0">
-                      <contents type="CGImage" src="assets/empty.png"/>
-                    </CALayer>
-		          </sublayers>
 	            </CALayer>
 	          </sublayers>
 	        </CALayer>
