@@ -8,7 +8,7 @@
 	        <CALayer id="#2" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 147.0 132.0" contentsFormat="RGBA8" name="shake" position="73.5 66.0">
 	          <sublayers>
 	            <CALayer id="#1" allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 147.0 132.0" contentsFormat="RGBA8" name="shackle" opacity="1" position="73.5 66.0">
-		          <contents type="CGImage" src="assets/trollformation.png"/>
+		          <contents type="CGImage" src="assets/trollformation1.png"/>
 		          <sublayers>
                     <CALayer allowsEdgeAntialiasing="1" allowsGroupOpacity="1" bounds="0 0 147.0 132.0" contentsFormat="RGBA8" name="body" position="73.5 66.0">
                       <contents type="CGImage" src="assets/empty.png"/>
