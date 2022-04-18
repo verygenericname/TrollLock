@@ -5,7 +5,7 @@ SDKVERSION = 11.4
 ARCHS = arm64 arm64e
 TrollLock_FILES = Tweak.x
 DEBUG=0
-PACKAGE_VERSION=1.0.1
+PACKAGE_VERSION=1.0.2
 include $(THEOS_MAKE_PATH)/tweak.mk
 
 internal-stage::
