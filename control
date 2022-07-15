@@ -2,7 +2,7 @@ Package: com.nathan.trolllock
 Name: TrollLock
 Description: Tweak that turns the faceID glyph into a trollface
 Version: 1.0.3
-Depends: firmware (>> 12), mobilesubstrate
+Depends: firmware (>=12.0), mobilesubstrate
 Priority: optional
 Section: Tweaks
 Architecture: iphoneos-arm
